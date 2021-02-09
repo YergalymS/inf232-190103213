@@ -11,7 +11,7 @@
 
     <input type="text" id="name" name="name"><br><br>
     <?php
-    echo "Sarsembek Kuanysh is tarbiewi";
+    echo "Github is fun";
     ?>
 </body>
 </html>
