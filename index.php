@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-    echo "i am your daddy";
+    echo "Sarsembek Kuanysh is tarbiewi";
     ?>
 </body>
 </html>
