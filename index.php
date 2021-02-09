@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
+
+    <input type="text" id="name" name="name"><br><br>
     <?php
     echo "Sarsembek Kuanysh is tarbiewi";
     ?>
