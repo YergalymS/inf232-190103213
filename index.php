@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <button type="button">Welcome to INF-232</button>
+    <button type="button">HELLO WORLD</button>
 
     <input type="text" id="name" name="name"><br><br>
     <?php
